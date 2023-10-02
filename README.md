@@ -3,7 +3,7 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-* [Entusiasta de la tecnología](#información-personal)
+* [Información Personal](#información-personal)
 * [Web Scrapper de Tiktok, proyectos universitarios](#proyectos)
 * [App development, data science](#intereses)
 ## Información personal
