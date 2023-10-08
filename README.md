@@ -1,14 +1,14 @@
-# RepositorioPersonal
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-* [Información Personal](#información-personal)
-* [Web Scrapper de Tiktok, proyectos universitarios](#proyectos)
-* [App development, data science](#intereses)
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 ## Información personal
-* Nombre: [CristianIntriago]
-* Ocupación: [Estudiante Ingeniería en Computación]
+* Nombre: [Cristian Ariel Intriago Moncayo]
+* Ocupación: [Estudiante de Ing. de Software]
+* Lugar de residencia: [Guayaquil,Ecuador]
 * Sitio web: []
 ## Proyectos
 * [Lista de tus proyectos]
