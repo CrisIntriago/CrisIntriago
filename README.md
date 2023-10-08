@@ -6,11 +6,16 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Cristian Ariel Intriago Moncayo]
-* Ocupación: [Estudiante de Ing. de Software]
-* Lugar de residencia: [Guayaquil,Ecuador]
+* Nombre: Cristian Ariel Intriago Moncayo
+* Ocupación: Estudiante de Ing. de Software
+* Lugar de residencia: Guayaquil,Ecuador
 * Sitio web: []
 ## Proyectos
-* [Lista de tus proyectos]
+* Tiktok Web Scrapper
+* Diccionario y autocompletar palabras
+* Sistema de pedidos
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo web
+* Fitness
+* Historia
+* Data Science
