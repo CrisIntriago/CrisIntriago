@@ -14,6 +14,7 @@ proyectos y mis intereses.
 * Tiktok Web Scrapper
 * Diccionario y autocompletar palabras
 * Sistema de pedidos
+* Landing page
 ## Intereses
 * Desarrollo web
 * Fitness
