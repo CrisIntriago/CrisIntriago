@@ -9,12 +9,12 @@ proyectos y mis intereses.
 * Nombre: Cristian Ariel Intriago Moncayo
 * Ocupación: Estudiante de Ing. de Software
 * Lugar de residencia: Guayaquil,Ecuador
-* Sitio web: https://crisintriago.github.io/CrisIntriago/
+* Sitio web: [https://crisintriago.github.io/CrisIntriago/](https://crisintriago.github.io/curriculum/)
 ## Proyectos
-* Tiktok Web Scrapper
-* Diccionario y autocompletar palabras
-* Sistema de pedidos
-* Landing page
+* [Tiktok Web Scrapper](https://github.com/CrisIntriago/Tiktok-WebScrapper)
+* [Diccionario y autocompletar palabras](https://github.com/CrisIntriago/Trie-Project-in-JAVA)
+* [Dashboard](https://github.com/CrisIntriago/dashboard)
+* [Landing page](https://github.com/CrisIntriago/landing)
 ## Intereses
 * Desarrollo web
 * Fitness
