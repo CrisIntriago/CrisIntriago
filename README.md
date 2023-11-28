@@ -16,6 +16,5 @@ Este es mi repositorio personal donde muestro mis proyectos personales.
 * [Landing page](https://github.com/CrisIntriago/landing)
 ## Intereses
 * Desarrollo web
-* Fitness
-* Historia
 * Data Science
+* Fitness
