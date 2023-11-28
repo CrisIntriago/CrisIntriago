@@ -1,6 +1,5 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Este es mi repositorio personal donde muestro mis proyectos personales.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -9,7 +8,7 @@ proyectos y mis intereses.
 * Nombre: Cristian Ariel Intriago Moncayo
 * Ocupación: Estudiante de Ing. de Software
 * Lugar de residencia: Guayaquil,Ecuador
-* Sitio web: [https://crisintriago.github.io/CrisIntriago/](https://crisintriago.github.io/curriculum/)
+* Sitio web: [https://crisintriago.github.io/CrisIntriago/][(https://crisintriago.github.io/curriculum/)](https://crisintriago.github.io/curriculum/)
 ## Proyectos
 * [Tiktok Web Scrapper](https://github.com/CrisIntriago/Tiktok-WebScrapper)
 * [Diccionario y autocompletar palabras](https://github.com/CrisIntriago/Trie-Project-in-JAVA)
