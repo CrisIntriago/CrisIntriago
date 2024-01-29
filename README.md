@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-![logo](https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif)
-</div>
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Developer from South America</h3>
 
