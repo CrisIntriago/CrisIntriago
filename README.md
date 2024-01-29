@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" alt="logo">
 </p>
-<h1 align="center">I'm Cristian</h1>
+<h1 align="center">I'm Cristian Intriago</h1>
 <h3 align="center">Developer from South America</h3>
+
+- 🌱 I’m currently learning **Java Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
