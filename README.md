@@ -1,3 +1,4 @@
+![logo](https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif)
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Developer from South America</h3>
 
