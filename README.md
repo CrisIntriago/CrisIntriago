@@ -2,7 +2,7 @@
   <img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" alt="logo">
 </p>
 <h1 align="center">I'm Cristian Intriago</h1>
-<h3 align="center">Full Stack Web Developer from South America</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Java Spring**
 
