@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Spring</p><br>👨‍💻 All of my projects are available at [https://crisintriago.netlify.app/](https://crisintriago.netlify.app/)
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Spring <br>👨‍💻 All of my projects are available at [https://crisintriago.netlify.app/](https://crisintriago.netlify.app/)</p>
 
 ###
 
