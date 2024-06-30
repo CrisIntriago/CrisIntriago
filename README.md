@@ -16,7 +16,7 @@
     👨‍💻 All of my projects are available at my <a href="https://crisintriago.netlify.app/" target="_blank">Portfolio</a>
 </p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
