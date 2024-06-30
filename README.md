@@ -15,7 +15,6 @@
     📚 I'm currently studying for AWS Solutions Architect Associate Certificate & College <br>
     👨‍💻 All of my projects are available at my <a href="https://crisintriago.netlify.app/" target="_blank">Portfolio</a>
 </p>
-###
 
 <h2 align="left">I code with</h2>
 
