@@ -10,8 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Spring <br>👨‍💻 All of my projects are available at my [Portfolio](https://crisintriago.netlify.app/)</p>
-
+<p align="left">
+    ✨ Creating bugs since 2021<br>
+    📚 I'm currently studying for AWS Solutions Architect Associate Certificate & College <br>
+    👨‍💻 All of my projects are available at my <a href="https://crisintriago.netlify.app/" target="_blank">Portfolio</a>
+</p>
 ###
 
 <h2 align="left">I code with</h2>
