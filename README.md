@@ -11,7 +11,6 @@
 ###
 
 <p align="left">
-    ✨ Creating bugs since 2021<br>
     📚 I'm currently studying for AWS Solutions Architect Associate Certificate & College <br>
     👨‍💻 All of my projects are available on my <a href="https://crisintriago.netlify.app/" target="_blank">Portfolio</a>
 </p>
